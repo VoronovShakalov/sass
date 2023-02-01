@@ -97,7 +97,7 @@ main .yaers {
   padding: 10vh 0;
   padding-top: 10vh;
   padding-bottom: 20vh;
-  background: url(../images/buildings__black_3164.png) center bottom repeat-x, url(../images/buildings__white_3165.png) center bottom repeat-x, #1d1d1d;
+  background: url(images/buildings__black_3164.png) center bottom repeat-x, url(images/buildings__white_3165.png) center bottom repeat-x, #1d1d1d;
 }
 
 main .yaers > *:nth-child(1) {
